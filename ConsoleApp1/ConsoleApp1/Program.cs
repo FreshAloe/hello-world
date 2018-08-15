@@ -10,22 +10,33 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Book gulliver = new Book();
+            Kilogram k1 = new Kilogram(5);
+            Kilogram k2 = new Kilogram(10);
 
-            gulliver.Title = "걸리버 여행기";
-            gulliver.Author = "Jonathan Swift";
-            gulliver.ISBN13 = 9788983920775m;
-            gulliver.Contents = "...";
-            gulliver.PageCount = 384;
+            Kilogram k3 = k1 + k2;
+            Console.WriteLine(k3);
+        }
+
+    }
+
+    class Kilogram
+    {
+        double mass;
+
+        public Kilogram(double value)
+        {
+            this.mass = value;
+        }
+
+        public static Kilogram operator +(Kilogram k1, Kilogram k2)
+        {
+            return new Kilogram(k1.mass + k2.mass);
+        }
+
+        public override string ToString()
+        {
+            return this.mass.ToString() + " kg";
         }
     }
 
-    class Book
-    {
-        public string Title;
-        public decimal ISBN13;
-        public string Contents;
-        public string Author;
-        public int PageCount;
-    }
 }
