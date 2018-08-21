@@ -19,24 +19,24 @@ namespace ConsoleApp1
                 new Person(28, "James")
             };
 
-            SortPerson sortPerson = new SortPerson(peoples);
-            sortPerson.Sort(AscSortByName);
-            sortPerson.Display();
+            SortObject sortObj = new SortObject(peoples);
+            sortObj.Sort(AscSortByName);
+            sortObj.Display();
 
             Console.WriteLine();
 
-            sortPerson.Sort(AscSortByAge);
-            sortPerson.Display();
+            sortObj.Sort(AscSortByAge);
+            sortObj.Display();
         }
 
-        static bool AscSortByName(Person men1, Person men2)
+        static bool AscSortByName(object men1, object men2)
         {
-            return men1.Name.CompareTo(men2.Name) < 0;
+            return ((Person)men1).Name.CompareTo(((Person)men2).Name) < 0;
         }
 
-        static bool AscSortByAge(Person men1, Person men2)
+        static bool AscSortByAge(object men1, object men2)
         {
-            return men1.Age < men2.Age;
+            return ((Person)men1).Age < ((Person)men2).Age;
         }
     }
 
@@ -57,42 +57,42 @@ namespace ConsoleApp1
         }
     }
 
-    delegate bool CompareDelegate(Person men1, Person men2);
+    delegate bool CompareDelegate(object men1, object men2);
 
-    class SortPerson
+    class SortObject
     {
-        Person[] men;
+        object[] obj;
 
-        public SortPerson(Person[] men)
+        public SortObject(object[] obj)
         {
-            this.men = men;
+            this.obj = obj;
         }
 
         public void Sort(CompareDelegate compareMethod)
         {
-            Person temp;
+            object temp;
 
-            for(int i = 0; i < men.Length; i++)
+            for(int i = 0; i < obj.Length; i++)
             {
                 int lowPos = i;
 
-                for(int j = i + 1; j < men.Length; j++)
+                for(int j = i + 1; j < obj.Length; j++)
                 {
-                    if(compareMethod(men[j], men[lowPos]))
+                    if(compareMethod(obj[j], obj[lowPos]))
                     {
                         lowPos = j;
                     }
                 }
 
-                temp = men[lowPos];
-                men[lowPos] = men[i];
-                men[i] = temp;
+                temp = obj[lowPos];
+                obj[lowPos] = obj[i];
+                obj[i] = temp;
             }
         }
 
         public void Display()
         {
-            foreach(Person item in men)
+            foreach(var item in obj)
             {
                 Console.WriteLine(item + ", ");
             }

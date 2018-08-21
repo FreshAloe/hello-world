@@ -1,0 +1,7 @@
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\IenumerableSample\bin\Debug\IenumerableSample.exe.config
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\IenumerableSample\bin\Debug\IenumerableSample.exe
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\IenumerableSample\bin\Debug\IenumerableSample.pdb
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\IenumerableSample\obj\Debug\IenumerableSample.csprojAssemblyReference.cache
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\IenumerableSample\obj\Debug\IenumerableSample.csproj.CoreCompileInputs.cache
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\IenumerableSample\obj\Debug\IenumerableSample.exe
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\IenumerableSample\obj\Debug\IenumerableSample.pdb
