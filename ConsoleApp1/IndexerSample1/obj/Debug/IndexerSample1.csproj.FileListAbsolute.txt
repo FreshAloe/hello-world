@@ -1,0 +1,6 @@
+C:\Users\capt1\Documents\GitHub\hello-world\ConsoleApp1\IndexerSample1\bin\Debug\IndexerSample1.exe.config
+C:\Users\capt1\Documents\GitHub\hello-world\ConsoleApp1\IndexerSample1\bin\Debug\IndexerSample1.exe
+C:\Users\capt1\Documents\GitHub\hello-world\ConsoleApp1\IndexerSample1\bin\Debug\IndexerSample1.pdb
+C:\Users\capt1\Documents\GitHub\hello-world\ConsoleApp1\IndexerSample1\obj\Debug\IndexerSample1.csproj.CoreCompileInputs.cache
+C:\Users\capt1\Documents\GitHub\hello-world\ConsoleApp1\IndexerSample1\obj\Debug\IndexerSample1.exe
+C:\Users\capt1\Documents\GitHub\hello-world\ConsoleApp1\IndexerSample1\obj\Debug\IndexerSample1.pdb

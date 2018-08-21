@@ -4,3 +4,10 @@ C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\enumSample\bin\Debug\e
 C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\enumSample\obj\Debug\enumSample.csproj.CoreCompileInputs.cache
 C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\enumSample\obj\Debug\enumSample.exe
 C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\enumSample\obj\Debug\enumSample.pdb
+C:\Users\capt1\Documents\GitHub\hello-world\ConsoleApp1\enumSample\bin\Debug\enumSample.exe.config
+C:\Users\capt1\Documents\GitHub\hello-world\ConsoleApp1\enumSample\bin\Debug\enumSample.exe
+C:\Users\capt1\Documents\GitHub\hello-world\ConsoleApp1\enumSample\bin\Debug\enumSample.pdb
+C:\Users\capt1\Documents\GitHub\hello-world\ConsoleApp1\enumSample\obj\Debug\enumSample.csprojAssemblyReference.cache
+C:\Users\capt1\Documents\GitHub\hello-world\ConsoleApp1\enumSample\obj\Debug\enumSample.csproj.CoreCompileInputs.cache
+C:\Users\capt1\Documents\GitHub\hello-world\ConsoleApp1\enumSample\obj\Debug\enumSample.exe
+C:\Users\capt1\Documents\GitHub\hello-world\ConsoleApp1\enumSample\obj\Debug\enumSample.pdb
