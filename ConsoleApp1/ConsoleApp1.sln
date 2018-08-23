@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndexerSample1", "IndexerSa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndexerSample2", "IndexerSample2\IndexerSample2.csproj", "{0C5FE07D-E04B-4DDC-A5C5-F36A50D63F39}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTimeSample", "DateTimeSample\DateTimeSample.csproj", "{8EF44AD6-FB8D-4A1C-B670-1FD50F5D80A4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{0C5FE07D-E04B-4DDC-A5C5-F36A50D63F39}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C5FE07D-E04B-4DDC-A5C5-F36A50D63F39}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C5FE07D-E04B-4DDC-A5C5-F36A50D63F39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EF44AD6-FB8D-4A1C-B670-1FD50F5D80A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EF44AD6-FB8D-4A1C-B670-1FD50F5D80A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EF44AD6-FB8D-4A1C-B670-1FD50F5D80A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EF44AD6-FB8D-4A1C-B670-1FD50F5D80A4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

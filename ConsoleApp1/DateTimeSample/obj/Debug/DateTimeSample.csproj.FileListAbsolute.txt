@@ -1,0 +1,7 @@
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\DateTimeSample\bin\Debug\DateTimeSample.exe.config
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\DateTimeSample\bin\Debug\DateTimeSample.exe
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\DateTimeSample\bin\Debug\DateTimeSample.pdb
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\DateTimeSample\obj\Debug\DateTimeSample.csprojAssemblyReference.cache
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\DateTimeSample\obj\Debug\DateTimeSample.csproj.CoreCompileInputs.cache
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\DateTimeSample\obj\Debug\DateTimeSample.exe
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\DateTimeSample\obj\Debug\DateTimeSample.pdb
