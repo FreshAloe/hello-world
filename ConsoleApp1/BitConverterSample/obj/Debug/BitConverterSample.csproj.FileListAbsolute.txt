@@ -1,0 +1,7 @@
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\BitConverterSample\bin\Debug\BitConverterSample.exe.config
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\BitConverterSample\bin\Debug\BitConverterSample.exe
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\BitConverterSample\bin\Debug\BitConverterSample.pdb
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\BitConverterSample\obj\Debug\BitConverterSample.csprojAssemblyReference.cache
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\BitConverterSample\obj\Debug\BitConverterSample.csproj.CoreCompileInputs.cache
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\BitConverterSample\obj\Debug\BitConverterSample.exe
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\BitConverterSample\obj\Debug\BitConverterSample.pdb

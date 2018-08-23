@@ -1,0 +1,6 @@
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\StreamWriter_Reader_Sample\bin\Debug\StreamWriter_Reader_Sample.exe.config
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\StreamWriter_Reader_Sample\bin\Debug\StreamWriter_Reader_Sample.exe
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\StreamWriter_Reader_Sample\bin\Debug\StreamWriter_Reader_Sample.pdb
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\StreamWriter_Reader_Sample\obj\Debug\StreamWriter_Reader_Sample.csproj.CoreCompileInputs.cache
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\StreamWriter_Reader_Sample\obj\Debug\StreamWriter_Reader_Sample.exe
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\StreamWriter_Reader_Sample\obj\Debug\StreamWriter_Reader_Sample.pdb

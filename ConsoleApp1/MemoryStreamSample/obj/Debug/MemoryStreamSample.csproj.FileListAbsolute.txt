@@ -1,0 +1,6 @@
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\MemoryStreamSample\bin\Debug\MemoryStreamSample.exe.config
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\MemoryStreamSample\bin\Debug\MemoryStreamSample.exe
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\MemoryStreamSample\bin\Debug\MemoryStreamSample.pdb
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\MemoryStreamSample\obj\Debug\MemoryStreamSample.csproj.CoreCompileInputs.cache
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\MemoryStreamSample\obj\Debug\MemoryStreamSample.exe
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\MemoryStreamSample\obj\Debug\MemoryStreamSample.pdb
