@@ -1,0 +1,7 @@
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\BinaryFormatterSample\bin\Debug\BinaryFormatterSample.exe.config
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\BinaryFormatterSample\bin\Debug\BinaryFormatterSample.exe
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\BinaryFormatterSample\bin\Debug\BinaryFormatterSample.pdb
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\BinaryFormatterSample\obj\Debug\BinaryFormatterSample.csprojAssemblyReference.cache
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\BinaryFormatterSample\obj\Debug\BinaryFormatterSample.csproj.CoreCompileInputs.cache
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\BinaryFormatterSample\obj\Debug\BinaryFormatterSample.exe
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\BinaryFormatterSample\obj\Debug\BinaryFormatterSample.pdb

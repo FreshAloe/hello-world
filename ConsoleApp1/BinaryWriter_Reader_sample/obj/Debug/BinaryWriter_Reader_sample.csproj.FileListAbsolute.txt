@@ -1,0 +1,7 @@
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\BinaryWriter_Reader_sample\bin\Debug\BinaryWriter_Reader_sample.exe.config
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\BinaryWriter_Reader_sample\bin\Debug\BinaryWriter_Reader_sample.exe
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\BinaryWriter_Reader_sample\bin\Debug\BinaryWriter_Reader_sample.pdb
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\BinaryWriter_Reader_sample\obj\Debug\BinaryWriter_Reader_sample.csprojAssemblyReference.cache
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\BinaryWriter_Reader_sample\obj\Debug\BinaryWriter_Reader_sample.csproj.CoreCompileInputs.cache
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\BinaryWriter_Reader_sample\obj\Debug\BinaryWriter_Reader_sample.exe
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\BinaryWriter_Reader_sample\obj\Debug\BinaryWriter_Reader_sample.pdb

@@ -1,0 +1,6 @@
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\XmlSerializerSample\bin\Debug\XmlSerializerSample.exe.config
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\XmlSerializerSample\bin\Debug\XmlSerializerSample.exe
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\XmlSerializerSample\bin\Debug\XmlSerializerSample.pdb
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\XmlSerializerSample\obj\Debug\XmlSerializerSample.csproj.CoreCompileInputs.cache
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\XmlSerializerSample\obj\Debug\XmlSerializerSample.exe
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\XmlSerializerSample\obj\Debug\XmlSerializerSample.pdb
