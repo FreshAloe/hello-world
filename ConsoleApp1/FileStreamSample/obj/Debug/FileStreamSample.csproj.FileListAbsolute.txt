@@ -1,0 +1,7 @@
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\FileStreamSample\bin\Debug\FileStreamSample.exe.config
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\FileStreamSample\bin\Debug\FileStreamSample.exe
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\FileStreamSample\bin\Debug\FileStreamSample.pdb
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\FileStreamSample\obj\Debug\FileStreamSample.csprojAssemblyReference.cache
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\FileStreamSample\obj\Debug\FileStreamSample.csproj.CoreCompileInputs.cache
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\FileStreamSample\obj\Debug\FileStreamSample.exe
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\FileStreamSample\obj\Debug\FileStreamSample.pdb

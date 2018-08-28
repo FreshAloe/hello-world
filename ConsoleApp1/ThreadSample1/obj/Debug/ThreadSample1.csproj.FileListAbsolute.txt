@@ -1,0 +1,7 @@
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\ThreadSample1\bin\Debug\ThreadSample1.exe.config
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\ThreadSample1\bin\Debug\ThreadSample1.exe
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\ThreadSample1\bin\Debug\ThreadSample1.pdb
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\ThreadSample1\obj\Debug\ThreadSample1.csprojAssemblyReference.cache
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\ThreadSample1\obj\Debug\ThreadSample1.csproj.CoreCompileInputs.cache
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\ThreadSample1\obj\Debug\ThreadSample1.exe
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\ThreadSample1\obj\Debug\ThreadSample1.pdb

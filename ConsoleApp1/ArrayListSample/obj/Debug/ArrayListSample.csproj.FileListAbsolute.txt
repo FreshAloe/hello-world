@@ -1,0 +1,7 @@
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\ArrayListSample\bin\Debug\ArrayListSample.exe.config
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\ArrayListSample\bin\Debug\ArrayListSample.exe
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\ArrayListSample\bin\Debug\ArrayListSample.pdb
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\ArrayListSample\obj\Debug\ArrayListSample.csprojAssemblyReference.cache
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\ArrayListSample\obj\Debug\ArrayListSample.csproj.CoreCompileInputs.cache
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\ArrayListSample\obj\Debug\ArrayListSample.exe
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\ArrayListSample\obj\Debug\ArrayListSample.pdb

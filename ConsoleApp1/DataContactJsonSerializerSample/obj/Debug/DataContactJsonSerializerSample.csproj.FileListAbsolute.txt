@@ -1,0 +1,7 @@
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\DataContactJsonSerializerSample\bin\Debug\DataContactJsonSerializerSample.exe.config
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\DataContactJsonSerializerSample\bin\Debug\DataContactJsonSerializerSample.exe
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\DataContactJsonSerializerSample\bin\Debug\DataContactJsonSerializerSample.pdb
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\DataContactJsonSerializerSample\obj\Debug\DataContactJsonSerializerSample.csprojAssemblyReference.cache
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\DataContactJsonSerializerSample\obj\Debug\DataContactJsonSerializerSample.csproj.CoreCompileInputs.cache
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\DataContactJsonSerializerSample\obj\Debug\DataContactJsonSerializerSample.exe
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\DataContactJsonSerializerSample\obj\Debug\DataContactJsonSerializerSample.pdb

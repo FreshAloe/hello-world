@@ -1,0 +1,6 @@
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\DirectorySample\obj\Debug\DirectorySample.csproj.CoreCompileInputs.cache
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\DirectorySample\bin\Debug\DirectorySample.exe.config
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\DirectorySample\bin\Debug\DirectorySample.exe
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\DirectorySample\bin\Debug\DirectorySample.pdb
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\DirectorySample\obj\Debug\DirectorySample.exe
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\DirectorySample\obj\Debug\DirectorySample.pdb
