@@ -41,6 +41,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadSample1", "ThreadSamp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadSample2", "ThreadSample2\ThreadSample2.csproj", "{D0979DEB-EA13-4B93-9135-CAE103D290E2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadSample3", "ThreadSample3\ThreadSample3.csproj", "{F165B1AC-67BC-4694-B710-AE7C2C87ACAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadSample4", "ThreadSample4\ThreadSample4.csproj", "{79E4B698-0A94-4DDF-A891-E001E74169C9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +127,14 @@ Global
 		{D0979DEB-EA13-4B93-9135-CAE103D290E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D0979DEB-EA13-4B93-9135-CAE103D290E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D0979DEB-EA13-4B93-9135-CAE103D290E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F165B1AC-67BC-4694-B710-AE7C2C87ACAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F165B1AC-67BC-4694-B710-AE7C2C87ACAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F165B1AC-67BC-4694-B710-AE7C2C87ACAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F165B1AC-67BC-4694-B710-AE7C2C87ACAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79E4B698-0A94-4DDF-A891-E001E74169C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79E4B698-0A94-4DDF-A891-E001E74169C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79E4B698-0A94-4DDF-A891-E001E74169C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79E4B698-0A94-4DDF-A891-E001E74169C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
