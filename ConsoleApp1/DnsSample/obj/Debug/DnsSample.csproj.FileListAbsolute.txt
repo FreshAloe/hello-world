@@ -1,0 +1,7 @@
+C:\Users\capt1\Documents\GitHub\hello-world\ConsoleApp1\DnsSample\bin\Debug\DnsSample.exe.config
+C:\Users\capt1\Documents\GitHub\hello-world\ConsoleApp1\DnsSample\bin\Debug\DnsSample.exe
+C:\Users\capt1\Documents\GitHub\hello-world\ConsoleApp1\DnsSample\bin\Debug\DnsSample.pdb
+C:\Users\capt1\Documents\GitHub\hello-world\ConsoleApp1\DnsSample\obj\Debug\DnsSample.csprojAssemblyReference.cache
+C:\Users\capt1\Documents\GitHub\hello-world\ConsoleApp1\DnsSample\obj\Debug\DnsSample.csproj.CoreCompileInputs.cache
+C:\Users\capt1\Documents\GitHub\hello-world\ConsoleApp1\DnsSample\obj\Debug\DnsSample.exe
+C:\Users\capt1\Documents\GitHub\hello-world\ConsoleApp1\DnsSample\obj\Debug\DnsSample.pdb
