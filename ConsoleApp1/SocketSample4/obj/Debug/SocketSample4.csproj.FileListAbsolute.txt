@@ -1,0 +1,6 @@
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\SocketSample4\bin\Debug\SocketSample4.exe.config
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\SocketSample4\bin\Debug\SocketSample4.exe
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\SocketSample4\bin\Debug\SocketSample4.pdb
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\SocketSample4\obj\Debug\SocketSample4.csproj.CoreCompileInputs.cache
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\SocketSample4\obj\Debug\SocketSample4.exe
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\SocketSample4\obj\Debug\SocketSample4.pdb
