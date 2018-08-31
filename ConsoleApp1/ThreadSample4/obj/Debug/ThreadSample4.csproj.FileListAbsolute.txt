@@ -4,3 +4,10 @@ C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\ThreadSample4\bin\Debu
 C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\ThreadSample4\obj\Debug\ThreadSample4.csproj.CoreCompileInputs.cache
 C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\ThreadSample4\obj\Debug\ThreadSample4.exe
 C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\ThreadSample4\obj\Debug\ThreadSample4.pdb
+C:\Users\capt1\Documents\GitHub\hello-world\ConsoleApp1\ThreadSample4\bin\Debug\ThreadSample4.exe.config
+C:\Users\capt1\Documents\GitHub\hello-world\ConsoleApp1\ThreadSample4\bin\Debug\ThreadSample4.exe
+C:\Users\capt1\Documents\GitHub\hello-world\ConsoleApp1\ThreadSample4\bin\Debug\ThreadSample4.pdb
+C:\Users\capt1\Documents\GitHub\hello-world\ConsoleApp1\ThreadSample4\obj\Debug\ThreadSample4.csprojAssemblyReference.cache
+C:\Users\capt1\Documents\GitHub\hello-world\ConsoleApp1\ThreadSample4\obj\Debug\ThreadSample4.csproj.CoreCompileInputs.cache
+C:\Users\capt1\Documents\GitHub\hello-world\ConsoleApp1\ThreadSample4\obj\Debug\ThreadSample4.exe
+C:\Users\capt1\Documents\GitHub\hello-world\ConsoleApp1\ThreadSample4\obj\Debug\ThreadSample4.pdb

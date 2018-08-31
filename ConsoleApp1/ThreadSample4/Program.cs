@@ -37,7 +37,8 @@ namespace ThreadSample4
 
             Thread thread1 = new Thread(ThreadFunc);
             Thread thread2 = new Thread(ThreadFunc);
-
+            thread1.Name = "thread1";
+            thread2.Name = "thread2";
             thread1.Start(data);
             thread2.Start(data);
 
@@ -53,6 +54,7 @@ namespace ThreadSample4
 
             for (int i = 0; i < 100000; i++)
             {
+                Console.WriteLine(Thread.CurrentThread.Name);
                 lock (data)
                 {
                     data.Increment();

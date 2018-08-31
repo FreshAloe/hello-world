@@ -1,0 +1,7 @@
+C:\Users\capt1\Documents\GitHub\hello-world\ConsoleApp1\ThreadPool_ThreadWaitHandleSample\bin\Debug\ThreadPool_ThreadWaitHandleSample.exe.config
+C:\Users\capt1\Documents\GitHub\hello-world\ConsoleApp1\ThreadPool_ThreadWaitHandleSample\bin\Debug\ThreadPool_ThreadWaitHandleSample.exe
+C:\Users\capt1\Documents\GitHub\hello-world\ConsoleApp1\ThreadPool_ThreadWaitHandleSample\bin\Debug\ThreadPool_ThreadWaitHandleSample.pdb
+C:\Users\capt1\Documents\GitHub\hello-world\ConsoleApp1\ThreadPool_ThreadWaitHandleSample\obj\Debug\ThreadPool_ThreadWaitHandleSample.csprojAssemblyReference.cache
+C:\Users\capt1\Documents\GitHub\hello-world\ConsoleApp1\ThreadPool_ThreadWaitHandleSample\obj\Debug\ThreadPool_ThreadWaitHandleSample.csproj.CoreCompileInputs.cache
+C:\Users\capt1\Documents\GitHub\hello-world\ConsoleApp1\ThreadPool_ThreadWaitHandleSample\obj\Debug\ThreadPool_ThreadWaitHandleSample.exe
+C:\Users\capt1\Documents\GitHub\hello-world\ConsoleApp1\ThreadPool_ThreadWaitHandleSample\obj\Debug\ThreadPool_ThreadWaitHandleSample.pdb
