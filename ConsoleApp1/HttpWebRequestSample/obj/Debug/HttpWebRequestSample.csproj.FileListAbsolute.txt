@@ -1,0 +1,6 @@
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\HttpWebRequestSample\bin\Debug\HttpWebRequestSample.exe.config
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\HttpWebRequestSample\bin\Debug\HttpWebRequestSample.exe
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\HttpWebRequestSample\bin\Debug\HttpWebRequestSample.pdb
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\HttpWebRequestSample\obj\Debug\HttpWebRequestSample.csproj.CoreCompileInputs.cache
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\HttpWebRequestSample\obj\Debug\HttpWebRequestSample.exe
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\HttpWebRequestSample\obj\Debug\HttpWebRequestSample.pdb

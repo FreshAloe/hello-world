@@ -1,0 +1,6 @@
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\WebServerSample\bin\Debug\WebServerSample.exe.config
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\WebServerSample\bin\Debug\WebServerSample.exe
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\WebServerSample\bin\Debug\WebServerSample.pdb
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\WebServerSample\obj\Debug\WebServerSample.csproj.CoreCompileInputs.cache
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\WebServerSample\obj\Debug\WebServerSample.exe
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\WebServerSample\obj\Debug\WebServerSample.pdb
