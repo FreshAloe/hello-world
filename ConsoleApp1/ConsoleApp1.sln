@@ -65,6 +65,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpWebRequestSample", "Htt
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebServerSample", "WebServerSample\WebServerSample.csproj", "{03BAC2E9-FDDF-4C6D-96B6-F39F44B69EBA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataBaseSample1", "DataBaseSample1\DataBaseSample1.csproj", "{42A2C8CE-1986-40B3-B95F-B12EA552AFF6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -195,6 +197,10 @@ Global
 		{03BAC2E9-FDDF-4C6D-96B6-F39F44B69EBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03BAC2E9-FDDF-4C6D-96B6-F39F44B69EBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03BAC2E9-FDDF-4C6D-96B6-F39F44B69EBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42A2C8CE-1986-40B3-B95F-B12EA552AFF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42A2C8CE-1986-40B3-B95F-B12EA552AFF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42A2C8CE-1986-40B3-B95F-B12EA552AFF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42A2C8CE-1986-40B3-B95F-B12EA552AFF6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
