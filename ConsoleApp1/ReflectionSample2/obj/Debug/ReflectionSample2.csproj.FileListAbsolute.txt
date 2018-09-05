@@ -1,0 +1,6 @@
+C:\Users\capt1\Documents\GitHub\hello-world\ConsoleApp1\ReflectionSample2\bin\Debug\ReflectionSample2.exe.config
+C:\Users\capt1\Documents\GitHub\hello-world\ConsoleApp1\ReflectionSample2\bin\Debug\ReflectionSample2.exe
+C:\Users\capt1\Documents\GitHub\hello-world\ConsoleApp1\ReflectionSample2\bin\Debug\ReflectionSample2.pdb
+C:\Users\capt1\Documents\GitHub\hello-world\ConsoleApp1\ReflectionSample2\obj\Debug\ReflectionSample2.csproj.CoreCompileInputs.cache
+C:\Users\capt1\Documents\GitHub\hello-world\ConsoleApp1\ReflectionSample2\obj\Debug\ReflectionSample2.exe
+C:\Users\capt1\Documents\GitHub\hello-world\ConsoleApp1\ReflectionSample2\obj\Debug\ReflectionSample2.pdb
