@@ -1,0 +1,7 @@
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\DataBaseSample2\bin\Debug\DataBaseSample2.exe.config
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\DataBaseSample2\bin\Debug\DataBaseSample2.exe
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\DataBaseSample2\bin\Debug\DataBaseSample2.pdb
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\DataBaseSample2\obj\Debug\DataBaseSample2.csprojAssemblyReference.cache
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\DataBaseSample2\obj\Debug\DataBaseSample2.csproj.CoreCompileInputs.cache
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\DataBaseSample2\obj\Debug\DataBaseSample2.exe
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\DataBaseSample2\obj\Debug\DataBaseSample2.pdb

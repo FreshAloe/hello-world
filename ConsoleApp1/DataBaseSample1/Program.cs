@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Data.SqlClient;
 using System.Configuration;
+using System.Data;
 
 namespace DataBaseSample1
 {
@@ -65,7 +66,14 @@ namespace DataBaseSample1
 
                     Console.WriteLine("{0}, {1}, {2}, {3}", name, birth, email, family);
                 }
+                reader.Close();
                 Console.WriteLine();
+
+                //
+                DataSet ds = new DataSet();
+                SqlDataAdapter sda = new SqlDataAdapter("Select * from MemberInfo", conn);
+                sda.Fill(ds, "MemberInfo");
+                ds.WriteXml(Console.Out);
             }
         }
     }

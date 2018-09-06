@@ -4,3 +4,9 @@ C:\Users\capt1\Documents\GitHub\hello-world\ConsoleApp1\reflectionSample3\bin\De
 C:\Users\capt1\Documents\GitHub\hello-world\ConsoleApp1\reflectionSample3\obj\Debug\reflectionSample3.csproj.CoreCompileInputs.cache
 C:\Users\capt1\Documents\GitHub\hello-world\ConsoleApp1\reflectionSample3\obj\Debug\reflectionSample3.exe
 C:\Users\capt1\Documents\GitHub\hello-world\ConsoleApp1\reflectionSample3\obj\Debug\reflectionSample3.pdb
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\reflectionSample3\bin\Debug\reflectionSample3.exe.config
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\reflectionSample3\bin\Debug\reflectionSample3.exe
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\reflectionSample3\bin\Debug\reflectionSample3.pdb
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\reflectionSample3\obj\Debug\reflectionSample3.csproj.CoreCompileInputs.cache
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\reflectionSample3\obj\Debug\reflectionSample3.exe
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\reflectionSample3\obj\Debug\reflectionSample3.pdb
