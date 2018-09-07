@@ -1,0 +1,7 @@
+C:\Users\capt1\Documents\GitHub\hello-world\ConsoleApp1\YieldSample1\bin\Debug\YieldSample1.exe.config
+C:\Users\capt1\Documents\GitHub\hello-world\ConsoleApp1\YieldSample1\bin\Debug\YieldSample1.exe
+C:\Users\capt1\Documents\GitHub\hello-world\ConsoleApp1\YieldSample1\bin\Debug\YieldSample1.pdb
+C:\Users\capt1\Documents\GitHub\hello-world\ConsoleApp1\YieldSample1\obj\Debug\YieldSample1.csprojAssemblyReference.cache
+C:\Users\capt1\Documents\GitHub\hello-world\ConsoleApp1\YieldSample1\obj\Debug\YieldSample1.csproj.CoreCompileInputs.cache
+C:\Users\capt1\Documents\GitHub\hello-world\ConsoleApp1\YieldSample1\obj\Debug\YieldSample1.exe
+C:\Users\capt1\Documents\GitHub\hello-world\ConsoleApp1\YieldSample1\obj\Debug\YieldSample1.pdb

@@ -1,0 +1,7 @@
+C:\Users\capt1\Documents\GitHub\hello-world\ConsoleApp1\AnonymousMethodSample\bin\Debug\AnonymousMethodSample.exe.config
+C:\Users\capt1\Documents\GitHub\hello-world\ConsoleApp1\AnonymousMethodSample\bin\Debug\AnonymousMethodSample.exe
+C:\Users\capt1\Documents\GitHub\hello-world\ConsoleApp1\AnonymousMethodSample\bin\Debug\AnonymousMethodSample.pdb
+C:\Users\capt1\Documents\GitHub\hello-world\ConsoleApp1\AnonymousMethodSample\obj\Debug\AnonymousMethodSample.csprojAssemblyReference.cache
+C:\Users\capt1\Documents\GitHub\hello-world\ConsoleApp1\AnonymousMethodSample\obj\Debug\AnonymousMethodSample.csproj.CoreCompileInputs.cache
+C:\Users\capt1\Documents\GitHub\hello-world\ConsoleApp1\AnonymousMethodSample\obj\Debug\AnonymousMethodSample.exe
+C:\Users\capt1\Documents\GitHub\hello-world\ConsoleApp1\AnonymousMethodSample\obj\Debug\AnonymousMethodSample.pdb
