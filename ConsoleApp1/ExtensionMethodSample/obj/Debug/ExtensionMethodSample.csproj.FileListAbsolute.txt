@@ -1,0 +1,7 @@
+C:\Users\capt1\Documents\GitHub\hello-world\ConsoleApp1\ExtensionMethodSample\bin\Debug\ExtensionMethodSample.exe.config
+C:\Users\capt1\Documents\GitHub\hello-world\ConsoleApp1\ExtensionMethodSample\bin\Debug\ExtensionMethodSample.exe
+C:\Users\capt1\Documents\GitHub\hello-world\ConsoleApp1\ExtensionMethodSample\bin\Debug\ExtensionMethodSample.pdb
+C:\Users\capt1\Documents\GitHub\hello-world\ConsoleApp1\ExtensionMethodSample\obj\Debug\ExtensionMethodSample.csprojAssemblyReference.cache
+C:\Users\capt1\Documents\GitHub\hello-world\ConsoleApp1\ExtensionMethodSample\obj\Debug\ExtensionMethodSample.csproj.CoreCompileInputs.cache
+C:\Users\capt1\Documents\GitHub\hello-world\ConsoleApp1\ExtensionMethodSample\obj\Debug\ExtensionMethodSample.exe
+C:\Users\capt1\Documents\GitHub\hello-world\ConsoleApp1\ExtensionMethodSample\obj\Debug\ExtensionMethodSample.pdb

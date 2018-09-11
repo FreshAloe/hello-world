@@ -85,6 +85,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YieldSample2", "YieldSample
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnonymousMethodSample", "AnonymousMethodSample\AnonymousMethodSample.csproj", "{409ADB5B-B345-44C9-A083-273E3D296B7B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionMethodSample", "ExtensionMethodSample\ExtensionMethodSample.csproj", "{43E4FBA8-4F24-4D74-BDFD-37E8490D9118}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -255,6 +257,10 @@ Global
 		{409ADB5B-B345-44C9-A083-273E3D296B7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{409ADB5B-B345-44C9-A083-273E3D296B7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{409ADB5B-B345-44C9-A083-273E3D296B7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43E4FBA8-4F24-4D74-BDFD-37E8490D9118}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43E4FBA8-4F24-4D74-BDFD-37E8490D9118}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43E4FBA8-4F24-4D74-BDFD-37E8490D9118}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43E4FBA8-4F24-4D74-BDFD-37E8490D9118}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
