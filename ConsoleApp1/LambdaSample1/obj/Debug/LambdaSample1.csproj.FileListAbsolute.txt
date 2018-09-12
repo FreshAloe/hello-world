@@ -1,0 +1,7 @@
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\LambdaSample1\bin\Debug\LambdaSample1.exe.config
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\LambdaSample1\bin\Debug\LambdaSample1.exe
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\LambdaSample1\bin\Debug\LambdaSample1.pdb
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\LambdaSample1\obj\Debug\LambdaSample1.csprojAssemblyReference.cache
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\LambdaSample1\obj\Debug\LambdaSample1.csproj.CoreCompileInputs.cache
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\LambdaSample1\obj\Debug\LambdaSample1.exe
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\LambdaSample1\obj\Debug\LambdaSample1.pdb
