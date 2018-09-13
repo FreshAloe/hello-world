@@ -1,0 +1,6 @@
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\LinqSample1\bin\Debug\LinqSample1.exe.config
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\LinqSample1\bin\Debug\LinqSample1.exe
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\LinqSample1\bin\Debug\LinqSample1.pdb
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\LinqSample1\obj\Debug\LinqSample1.csproj.CoreCompileInputs.cache
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\LinqSample1\obj\Debug\LinqSample1.exe
+C:\Users\caphome\Documents\GitHub\hello-world\ConsoleApp1\LinqSample1\obj\Debug\LinqSample1.pdb
