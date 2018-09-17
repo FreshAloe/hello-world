@@ -1,0 +1,7 @@
+C:\Users\capt1\Documents\GitHub\hello-world\ConsoleApp1\LinqSample2\bin\Debug\LinqSample2.exe.config
+C:\Users\capt1\Documents\GitHub\hello-world\ConsoleApp1\LinqSample2\bin\Debug\LinqSample2.exe
+C:\Users\capt1\Documents\GitHub\hello-world\ConsoleApp1\LinqSample2\bin\Debug\LinqSample2.pdb
+C:\Users\capt1\Documents\GitHub\hello-world\ConsoleApp1\LinqSample2\obj\Debug\LinqSample2.csprojAssemblyReference.cache
+C:\Users\capt1\Documents\GitHub\hello-world\ConsoleApp1\LinqSample2\obj\Debug\LinqSample2.csproj.CoreCompileInputs.cache
+C:\Users\capt1\Documents\GitHub\hello-world\ConsoleApp1\LinqSample2\obj\Debug\LinqSample2.exe
+C:\Users\capt1\Documents\GitHub\hello-world\ConsoleApp1\LinqSample2\obj\Debug\LinqSample2.pdb
